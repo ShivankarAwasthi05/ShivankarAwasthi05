@@ -2,7 +2,6 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" height="35" > Hi there ✨   I'm Shivankar Awasthi ✨
 
 [GitHub](https://github.com/ShivankarAwasthi05)
-[LinkedIn](linkedin.com/in/shivankar-awasthi-baa078245)
 
 I am a Third-year B.tech student in the <a href='https://www.psit.ac.in/academics/eb/computer-science-and-engineering' target="_blank">Computer Science Department</a> at
  <a href='https://www.psit.ac.in/' target="_blank">Pranveer Singh Institute Of Technology</a>, I am broadly
