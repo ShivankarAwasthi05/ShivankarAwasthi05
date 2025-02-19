@@ -1,4 +1,3 @@
-## Hi there 👋
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" height="35" > Hi there ✨   I'm Shivankar Awasthi ✨
 
 [GitHub](https://github.com/ShivankarAwasthi05)
